@@ -2,8 +2,8 @@
 ```
 Budget Box App, with a frontend built in React & Redux and a backend built in Django API.
 ```
-Check out [FRONTEND LIVE DEMO](https://techis-wd-budget-box-backend.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://techis-wd-budget-box-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO]() here!!
+Check out [API LIVE DEMO]() here!!
 ## Tech used
 ```
 * Frontend : React & Redux
@@ -12,7 +12,7 @@ Check out [API LIVE DEMO](https://techis-wd-budget-box-frontend.herokuapp.com/) 
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/Tech-i-s/techis-wd-sample-budget-box.git
+git clone https://github.com/Manikantatechis/Budget-Box.git
 ```
 2. Backend setting
 ```
